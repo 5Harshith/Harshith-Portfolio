@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { AnimatedTooltip } from "@/components/ui/animated-tooltip";
-import { pr } from "./data";
+
 import Profile from "./image/images";
 
 const people = [
