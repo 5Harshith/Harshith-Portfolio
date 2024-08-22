@@ -7,7 +7,7 @@ import Profile from "./image/images";
 const people = [
   {
     id: 1,
-    name: "Harshith Kumar",
+    name: "Harshith K",
     designation: "Software Engineer",
     image: Profile,
   },
